@@ -1,0 +1,1 @@
+RewriteRule ^mydir/ - [L,R=404,NC]
