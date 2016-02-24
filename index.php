@@ -105,6 +105,22 @@
 
         		<div class="row">
 		            <div class="col-md-7">
+		                    <img class="img-responsive hvr-grow-shadow" src="static/img/weather.png" alt="Picture of IBF website">
+		            </div>
+		            <div class="col-md-5">
+		                <h3>What's my weather?</h3>
+		                <h4>Weather information for your locatiom</h4>
+		        		<p> This is a simple website, built with Bootstrap and jQuery, which displays information about the current weather 
+		        			for the user's location. The location is automatically fetched based on user's IP. APIs used in this project: 
+		        			<a href="http://openweathermap.org/">Open Weather API</a> and 
+		        			<a href="http://ipinfo.io/">IP Info</a></p>
+		                <a class="btn btn-success hvr-icon-wobble-horizontal" href="http://whats-my-weather.herokuapp.com/" target="_blank"> Visit Website  </a>
+	            	</div>
+        		</div>
+        		<br/>
+
+        		<div class="row">
+		            <div class="col-md-7">
 		                    <img class="img-responsive hvr-grow-shadow" src="static/img/quotedisp.png" alt="Picture of IBF website">
 		            </div>
 		            <div class="col-md-5">
