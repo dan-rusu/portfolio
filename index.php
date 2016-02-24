@@ -105,6 +105,20 @@
 
         		<div class="row">
 		            <div class="col-md-7">
+		                    <img class="img-responsive hvr-grow-shadow" src="static/img/quotedisp.png" alt="Picture of IBF website">
+		            </div>
+		            <div class="col-md-5">
+		                <h3>Quote Dispatcher</h3>
+		                <h4>Get a random quote :)</h4>
+		        		<p> Quote Dispatcher is a simple website that generates a random quote and allows the user to share that quote on Twitter.
+		        			The website was built using Bootstrap framework, as well as jQuery for live updates to the page.</p>
+		                <a class="btn btn-success hvr-icon-wobble-horizontal" href="http://quote-dispatcher.herokuapp.com/" target="_blank"> Visit Website  </a>
+	            	</div>
+        		</div>
+        		<br/>
+
+        		<div class="row">
+		            <div class="col-md-7">
 		                    <img class="img-responsive hvr-grow-shadow" src="static/img/cmg.png" alt="Picture of Check My Garage website">
 		            </div>
 		            <div class="col-md-5">
